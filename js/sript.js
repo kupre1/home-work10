@@ -17,7 +17,7 @@ taskBtn.addEventListener("click", function (event) {
 
     let addbtn = document.createElement("button");
     let addbtnImage = document.createElement("img");
-    addbtnImage.src = "vector (5).png";
+    addbtnImage.src = "vector.png";
     addbtn.appendChild(addbtnImage);
     addbtn.classList.add("add-btn");
     addbtn.addEventListener("click", function (event) {
